@@ -45,7 +45,7 @@ h3{
 }
 
 .bottom-container{
-  background-color: #897853;
+  background-color: #5b6d5b;
   padding-top: 50px;
   padding-bottom: 20px;
 }
@@ -174,8 +174,8 @@ h3{
   font-size: 20px;
   font-weight: 100;
   padding: 15px;
-  background-color: #65A196;
-  border: solid #647581 1px;
+  background-color: #9a8194;
+  border: none;
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
